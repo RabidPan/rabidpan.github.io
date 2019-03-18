@@ -1,22 +1,24 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rabidpan.com,rabidpan.github.io" resolutions="1x" timestamp="1552871081358">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rabidpan.com,rabidpan.github.io" resolutions="1x" timestamp="1552872354159">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="66968304" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="4286661555" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:index"/>
+    <file name="require.js" crc="7928878" ref="phone>index:index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3873386703" ref="index"/>
+  </folder>
   <folder name="phone">
     <folder name="css">
       <file name="index.css" crc="3895755093" ref="phone>index"/>
     </folder>
     <file name="index.html" crc="4259627897" seo="true" mt="1552870726531" redirect="false"/>
   </folder>
-  <folder name="css">
-    <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="384379384" ref="index"/>
-  </folder>
-  <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index"/>
-    <file name="museutils.js" crc="340535759" ref="index:phone>index"/>
-    <file name="whatinput.js" crc="86476730" ref="index:phone>index"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:phone>index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:phone>index"/>
-    <file name="require.js" crc="7928878" ref="index:phone>index"/>
-  </folder>
-  <folder name="images"/>
-  <file name="index.html" crc="4250284231" seo="true" mt="1552870972057" redirect="true"/>
+  <file name="index.html" crc="297926563" seo="true" mt="1552872250660" redirect="true"/>
 </manifest>
