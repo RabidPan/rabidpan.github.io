@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rabidpan.com,rabidpan.github.io" resolutions="1x,2x" timestamp="1552925379111">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rabidpan.com,rabidpan.github.io" resolutions="1x,2x" timestamp="1552926435487">
   <folder name="css">
     <file name="site_global.css" crc="513467885"/>
     <file name="master_a-master.css" crc="4188453811" ref="photos:index:discord"/>
@@ -30,7 +30,7 @@
     </file>
     <file name="lewis_polaphoto-favicon.ico" crc="446612170" ref="lewis_polaphoto"/>
   </folder>
-  <file name="index.html" crc="192346218" seo="true" mt="1552925364277" redirect="true"/>
+  <file name="index.html" crc="55299591" seo="true" mt="1552926427717" redirect="true"/>
   <file name="discord.html" crc="96804314" seo="true" mt="1552925364277" redirect="true"/>
   <file name="photos.html" crc="484571878" seo="true" mt="1552925364277" redirect="true"/>
   <file name="lewis_polaphoto.html" crc="266599014" seo="true" mt="1552925364278" redirect="true"/>
