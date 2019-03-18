@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rabidpan.com,rabidpan.github.io" resolutions="1x,2x" timestamp="1552926435487">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rabidpan.com,rabidpan.github.io" resolutions="1x,2x" timestamp="1552926675195">
   <folder name="css">
     <file name="site_global.css" crc="513467885"/>
     <file name="master_a-master.css" crc="4188453811" ref="photos:index:discord"/>
+    <file name="lewis_polaphoto.css" crc="480677863" ref="lewis_polaphoto"/>
     <file name="photos.css" crc="4264832506" ref="photos"/>
     <file name="index.css" crc="139076907" ref="index"/>
     <file name="discord.css" crc="4137259218" ref="discord"/>
-    <file name="lewis_polaphoto.css" crc="480677863" ref="lewis_polaphoto"/>
   </folder>
   <folder name="assets">
     <file name="center-page_1.0.0.zxp" crc="308056950" seo="true" mt="1552921377000"/>
@@ -20,15 +20,13 @@
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="3873386703" ref="index"/>
+    <file name="lewis_polaphoto-favicon.ico" crc="446612170" ref="lewis_polaphoto"/>
     <file name="lewispolaphoto.jpg" crc="4070846132" seo="true" ref="lewis_polaphoto">
       <caption webpage="lewis_polaphoto" alt=""/>
-      <caption webpage="lis_polaphoto" alt=""/>
     </file>
     <file name="lewispolaphoto_2x.jpg" crc="204443510" seo="true" ref="lewis_polaphoto">
       <caption webpage="lewis_polaphoto" alt=""/>
-      <caption webpage="lis_polaphoto" alt=""/>
     </file>
-    <file name="lewis_polaphoto-favicon.ico" crc="446612170" ref="lewis_polaphoto"/>
   </folder>
   <file name="index.html" crc="55299591" seo="true" mt="1552926427717" redirect="true"/>
   <file name="discord.html" crc="96804314" seo="true" mt="1552925364277" redirect="true"/>
